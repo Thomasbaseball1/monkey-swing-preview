@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=1,user-scalable=no" />
-  <title>Monkey Swing Preview v0.8</title>
-  <link rel="stylesheet" href="styles.css?v=8" />
-  <link rel="stylesheet" href="polish.css?v=8" />
-  <link rel="stylesheet" href="route.css?v=8" />
-  <link rel="stylesheet" href="graphics.css?v=8" />
-  <link rel="stylesheet" href="progression.css?v=8" />
-  <link rel="stylesheet" href="effects.css?v=8" />
+  <title>Monkey Swing Preview v0.9</title>
+  <link rel="stylesheet" href="styles.css?v=9" />
+  <link rel="stylesheet" href="polish.css?v=9" />
+  <link rel="stylesheet" href="route.css?v=9" />
+  <link rel="stylesheet" href="graphics.css?v=9" />
+  <link rel="stylesheet" href="progression.css?v=9" />
+  <link rel="stylesheet" href="effects.css?v=9" />
 </head>
 <body>
   <canvas id="game"></canvas>
@@ -34,18 +34,18 @@
     </div>
 
     <div id="reticle"></div>
-    <div class="hint">Hold to grab • release to launch</div>
-    <div class="version">v0.8 unlock effects</div>
+    <div class="hint">Hold near vine • release to launch</div>
+    <div class="version">v0.9 vine physics fix</div>
     <div class="speed"><span id="speedBar"></span></div>
   </div>
 
   <div id="menu" class="overlay">
     <div class="card">
-      <div class="small">Mobile Web Prototype v0.8</div>
+      <div class="small">Mobile Web Prototype v0.9</div>
       <h1><span class="gold">Monkey<br>Swing</span></h1>
-      <p class="sub">Unlock effects pass: Better Grip, Launch Power, Banana Sense, and Golden Fur now create visible, haptic, and UI feedback during runs.</p>
+      <p class="sub">Core vine fix: tighter grab zones, lock ring now marks the actual lower grab point, and the vine itself bends/moves with you while attached.</p>
       <button id="start" class="button">Start Swinging</button>
-      <div class="tips">Audio starts after your first tap. Landscape gives the most cinematic view.</div>
+      <div class="tips">Hold only when the lock ring is near your path. Audio starts after your first tap.</div>
     </div>
   </div>
 
@@ -58,11 +58,11 @@
     </div>
   </div>
 
-  <script type="module" src="app.js?v=8"></script>
-  <script src="graphics.js?v=8"></script>
-  <script src="polish.js?v=8"></script>
-  <script src="route.js?v=8"></script>
-  <script src="progression.js?v=8"></script>
-  <script src="effects.js?v=8"></script>
+  <script type="module" src="app.js?v=9"></script>
+  <script src="graphics.js?v=9"></script>
+  <script src="polish.js?v=9"></script>
+  <script src="route.js?v=9"></script>
+  <script src="progression.js?v=9"></script>
+  <script src="effects.js?v=9"></script>
 </body>
 </html>
