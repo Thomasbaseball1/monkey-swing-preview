@@ -14,6 +14,15 @@ Open the GitHub Pages URL on iPhone:
 - Collect bananas
 - Avoid hazards
 
+## v0.3 changes
+
+- Split the prototype into cleaner `index.html`, `styles.css`, and `app.js`
+- Denser jungle composition with canopy curtains, cliffs, ruins, water, mist, and birds
+- More detailed vines with leaf clusters and target rings
+- More atmospheric sky, sun glow, fog, and light shafts
+- Improved monkey hands/arms and first-person camera feedback
+- Visual flash on perfect release
+
 ## v0.2 changes
 
 - Better swing momentum and release boost
