@@ -18,6 +18,15 @@ Open the GitHub Pages URL on iPhone:
 
 A production graphics plan has been added in [`GRAPHICS_ROADMAP.md`](GRAPHICS_ROADMAP.md). The current web prototype is useful for gameplay feel and art direction, but final-quality visuals will require real 3D assets for monkey arms, vines, foliage, terrain, waterfalls, ruins, and lighting.
 
+## v0.8 changes
+
+- Added `effects.js` and `effects.css` for unlock feedback during runs
+- Better Grip now improves the visual lock-ring feedback
+- Launch Power now adds launch ripple, haptics, and bonus feedback
+- Banana Sense now adds a tracking-style banana sense bar and collection feedback
+- Golden Fur now adds premium golden UI presentation markers
+- Added active unlock badges during play
+
 ## v0.7 changes
 
 - Added `progression.js` and `progression.css` for the first long-term game loop layer
