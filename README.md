@@ -14,4 +14,13 @@ Open the GitHub Pages URL on iPhone:
 - Collect bananas
 - Avoid hazards
 
+## v0.2 changes
+
+- Better swing momentum and release boost
+- Green target-lock ring on grabbable vines
+- Perfect-release feedback
+- Improved camera speed, roll, and shake
+- More cinematic jungle lighting, fog, ruins, water, and sun shafts
+- Speed meter and cleaner HUD feedback
+
 This is a browser preview, not the final Unity/App Store build.
