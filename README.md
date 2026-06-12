@@ -14,6 +14,15 @@ Open the GitHub Pages URL on iPhone:
 - Collect bananas
 - Avoid hazards
 
+## v0.4 changes
+
+- Added `polish.js` and `polish.css` for a separate cinematic screen-effects layer
+- Added wind-rush audio after the first tap
+- Added speed streaks, drifting pollen, and foreground leaf flybys
+- Added banana sparkle bursts and pickup audio feedback
+- Added stronger warm grading, edge blur/vignette, and jungle shadow overlays
+- Improved menu polish and reticle pulse feedback
+
 ## v0.3 changes
 
 - Split the prototype into cleaner `index.html`, `styles.css`, and `app.js`
