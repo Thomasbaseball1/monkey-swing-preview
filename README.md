@@ -14,6 +14,19 @@ Open the GitHub Pages URL on iPhone:
 - Collect bananas
 - Avoid hazards
 
+## Graphics roadmap
+
+A production graphics plan has been added in [`GRAPHICS_ROADMAP.md`](GRAPHICS_ROADMAP.md). The current web prototype is useful for gameplay feel and art direction, but final-quality visuals will require real 3D assets for monkey arms, vines, foliage, terrain, waterfalls, ruins, and lighting.
+
+## v0.6 changes
+
+- Added `graphics.js` and `graphics.css` for a dedicated graphics-direction layer
+- Added procedural valley depth and distant jungle silhouettes
+- Added animated god rays, moving mist, and cloud bands
+- Added soft texture/noise overlays so the scene feels less flat
+- Added canopy silhouette sprites and cinematic color wash
+- Added `GRAPHICS_ROADMAP.md` for the real asset upgrade path
+
 ## v0.5 changes
 
 - Added `route.js` and `route.css` for route/readability systems
