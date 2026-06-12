@@ -18,6 +18,15 @@ Open the GitHub Pages URL on iPhone:
 
 A production graphics plan has been added in [`GRAPHICS_ROADMAP.md`](GRAPHICS_ROADMAP.md). The current web prototype is useful for gameplay feel and art direction, but final-quality visuals will require real 3D assets for monkey arms, vines, foliage, terrain, waterfalls, ruins, and lighting.
 
+## v0.7 changes
+
+- Added `progression.js` and `progression.css` for the first long-term game loop layer
+- Added current mission tracking with progress bar and banana rewards
+- Added run grades based on distance, bananas, and combo
+- Added saved best distance and banana stash using local storage
+- Added early unlock markers for Better Grip, Launch Power, Banana Sense, and Golden Fur
+- Added an unlocks panel and post-run summary feedback
+
 ## v0.6 changes
 
 - Added `graphics.js` and `graphics.css` for a dedicated graphics-direction layer
