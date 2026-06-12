@@ -8,7 +8,7 @@ Open the GitHub Pages URL on iPhone:
 
 ## Controls
 
-- Hold screen = grab/swing
+- Hold near a vine lock ring = grab/swing
 - Release = launch forward
 - Drag left/right = steer
 - Collect bananas
@@ -17,6 +17,15 @@ Open the GitHub Pages URL on iPhone:
 ## Graphics roadmap
 
 A production graphics plan has been added in [`GRAPHICS_ROADMAP.md`](GRAPHICS_ROADMAP.md). The current web prototype is useful for gameplay feel and art direction, but final-quality visuals will require real 3D assets for monkey arms, vines, foliage, terrain, waterfalls, ruins, and lighting.
+
+## v0.9 changes
+
+- Fixed the core vine grab logic so it checks the lower visible grab point instead of the top vine anchor
+- Made grab zones much stricter so tapping far away should no longer instantly pull you into a swing
+- Moved the lock ring to the actual lower vine grab point
+- Added dynamic vine deformation so the vine bends/moves with the player while attached
+- Wired Better Grip into actual core grab-range logic, not just visual effects
+- Wired Launch Power and Banana Sense into core release/collection behavior
 
 ## v0.8 changes
 
