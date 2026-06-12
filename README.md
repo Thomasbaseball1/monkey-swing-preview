@@ -14,6 +14,15 @@ Open the GitHub Pages URL on iPhone:
 - Collect bananas
 - Avoid hazards
 
+## v0.5 changes
+
+- Added `route.js` and `route.css` for route/readability systems
+- Added named jungle zones such as Canopy Run, Waterfall Gap, Temple Approach, and Ruin Sprint
+- Added a swing-chain meter to reward cleaner swing sequences
+- Added 100m milestone feedback during runs
+- Added danger-edge feedback when speed and combo drop
+- Added cinematic foreground framing with side trunks, canopy silhouettes, and route-like jungle tunnel motion
+
 ## v0.4 changes
 
 - Added `polish.js` and `polish.css` for a separate cinematic screen-effects layer
